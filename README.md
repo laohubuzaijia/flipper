@@ -32,6 +32,8 @@
   - [Requirements](#requirements)
 - [Building from Source](#building-from-source)
   - [Desktop](#desktop)
+
+#1
     - [Running from source](#running-from-source)
     - [Building standalone application](#building-standalone-application)
 - [iOS SDK + Sample App](#ios-sdk--sample-app)
